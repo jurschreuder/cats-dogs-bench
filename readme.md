@@ -17,7 +17,7 @@ Cats and dogs dataset for Computer Vision. This benchmark is specifically design
 - 100 folder: 50 cats and 50 dogs.
 
 ## size on disk
-- 128x128: 277
+- 128x128: 277M
 - 64x64: 193M
 - 32x32: 193M
 
